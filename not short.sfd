@@ -1,0 +1,109 @@
+SplineFontDB: 3.0
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2018, Mel Baylon
+UComments: "2018-9-25: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 50 -1572356432 14717305]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1537887756
+ModificationTime: 1537889235
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 64 8 4
+Grid
+-1000 812 m 0
+ 2000 812 l 1024
+  Named: "overshoot"
+-1000 -16 m 0
+ 2000 -16 l 1024
+  Named: "overshoot"
+EndSplineSet
+BeginChars: 256 2
+
+StartChar: A
+Encoding: 65 65 0
+Width: 109
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+26 132 m 1
+ 88 132 l 1
+ 88 110 l 1
+ 26 110 l 1
+ 26 132 l 1
+17 0 m 1
+ 39 800 l 25
+ 74 800 l 25
+ 96 0 l 17
+ 88.3330078125 0 80.6669921875 0 73 0 c 1
+ 54 780 l 1
+ 59 780 l 1
+ 40 0 l 1
+ 39.3330078125 0 24.6669921875 0 17 0 c 1
+41 24 m 1049
+66 31 m 1048
+EndSplineSet
+EndChar
+
+StartChar: H
+Encoding: 72 72 1
+Width: 98
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+14 180 m 1
+ 87 180 l 1
+ 87 155 l 1
+ 14 155 l 1
+ 14 180 l 1
+61 799 m 1
+ 87 800 l 1
+ 87 0 l 1
+ 61 -1 l 1
+ 61 799 l 1
+14 800 m 1
+ 39 800 l 1
+ 39 0 l 1
+ 14 0 l 1
+ 14 800 l 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
